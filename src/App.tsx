@@ -1,4 +1,3 @@
-import { SiteFooter } from './components/layout/SiteFooter'
 import { FaqSection } from './components/sections/FaqSection'
 import { FeaturesSection } from './components/sections/FeaturesSection'
 import { HeroSection } from './components/sections/HeroSection'
@@ -13,7 +12,6 @@ function App() {
         <FeaturesSection />
         <FaqSection />
       </main>
-      <SiteFooter />
     </div>
   )
 }
